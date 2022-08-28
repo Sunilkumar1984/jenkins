@@ -1,6 +1,6 @@
 # Jenkins Example
 this is for git hooks  of Jenkins example
 
-1st commit
+1st commite
 2nd commite
-
+3rd commite
